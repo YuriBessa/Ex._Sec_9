@@ -36,7 +36,7 @@ Considera-se que o usuário já possua o Python (preferencialmente o 3.12) e o p
    - boto3                       Versão: 1.35.81
    - streamlit                   Versão: 1.37.1
 
-- ## 4 - Inicie a authenticação aws sso. 
+- ## 4 - Inicie a authenticação AWS SSO. 
    1 - Substituir as strings nos campos: `profile_name` e `credentials_profile_name` pelo seu perfil SSO
 
    2 - Fazer a autenticação pelo terminal utilizando o comando:
